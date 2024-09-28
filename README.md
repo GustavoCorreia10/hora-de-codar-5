@@ -1,2 +1,2 @@
 # Instituto PROA
-* Atividade proposta pelo Professor Gabriel, simulando um caixa eletrônico.*
+* Atividade feita inteiramente com a linguagem de programação Kotlin, ensinada pelo Professor Gabriel, simulando um caixa eletrônico.
